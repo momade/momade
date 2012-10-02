@@ -1,6 +1,6 @@
 ﻿<html>
 	<head></head>
-	<body><?php echo 'Hello world' ; ?>
+	<body><?php echo 'welou' ; ?>
 	</body>
 	
 </html>
